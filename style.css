@@ -9,6 +9,7 @@ nav a {
     border-radius: 50px;
 }
 
+
 h1.title {
     text-align: center;
     padding: 15px;
@@ -20,7 +21,7 @@ h1.title {
     background-color: rgb(213, 195, 123);
 }
 
-div {
+div.content {
     padding: 5px;
     padding-left: 15px;
     border-radius: 20px;
@@ -29,6 +30,8 @@ div {
     background-color: rgb(213, 195, 123);
     color: black;
 }
+
+
 div.img {
     margin-left: 15%;
     margin-right: 15%;
